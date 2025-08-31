@@ -1,0 +1,10 @@
+runpod==1.7.2
+torch==2.1.0
+torchvision==0.16.0
+diffusers==0.24.0
+transformers==4.35.2
+accelerate==0.24.1
+Pillow==10.1.0
+opencv-python==4.8.1.78
+requests==2.31.0
+xformers==0.0.22.post7
